@@ -1,3 +1,7 @@
+html {
+  box-sizing: border-box;
+}
+
 @keyframes float {
   from {
     transform: translateY(0px);
